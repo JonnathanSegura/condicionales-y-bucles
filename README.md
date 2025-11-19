@@ -1,7 +1,6 @@
 Condicionales y Bucles en Java
 
 Este repositorio contiene ejercicios prácticos desarrollados en Java para reforzar el uso de estructuras condicionales (if, else, switch) y bucles (for, while, do-while).
-Hace parte de las actividades del curso de Programación en Java (Coursera / SENA).
 
 Requisitos
 
