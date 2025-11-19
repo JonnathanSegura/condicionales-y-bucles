@@ -4,8 +4,8 @@ Este repositorio contiene ejercicios prácticos desarrollados en Java para refor
 Hace parte de las actividades del curso de Programación en Java (Coursera / SENA).
 
 ## Requisitos
-- Java 17
-- IntelliJ IDEA (o cualquier IDE para Java)
+- Java 17  
+- IntelliJ IDEA (o cualquier IDE para Java)  
 - Git (opcional, para clonar el repositorio)
 
 ## Ejecución
@@ -19,5 +19,6 @@ Hace parte de las actividades del curso de Programación en Java (Coursera / SEN
 ```bash
 javac BandMatrix.java
 java BandMatrix
+
 
 
