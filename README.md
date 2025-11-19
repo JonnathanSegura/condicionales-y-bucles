@@ -20,5 +20,4 @@ Hace parte de las actividades del curso de Programación en Java (Coursera / SEN
 javac BandMatrix.java
 java BandMatrix
 
-## Autor
-- Jonnathan Rosero Segura
+
