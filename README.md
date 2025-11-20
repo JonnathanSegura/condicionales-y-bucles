@@ -1,8 +1,8 @@
-Condicionales y Bucles en Java
+## Condicionales y Bucles en Java
 
 Este repositorio contiene ejercicios prácticos desarrollados en Java para reforzar el uso de estructuras condicionales (if, else, switch) y bucles (for, while, do-while).
 
-Requisitos
+# Requisitos
 
 Java 17
 
@@ -10,7 +10,7 @@ IntelliJ IDEA (o cualquier IDE para Java)
 
 Git (opcional, para clonar el repositorio)
 
-Ejecución
+# Ejecución
 
 Clonar el repositorio
 
@@ -25,7 +25,7 @@ También puedes ejecutar los programas desde la terminal, por ejemplo:
 javac BandMatrix.java
 java BandMatrix
 
-Archivos principales
+# Archivos principales
 
 BandMatrix.java → Genera y muestra una matriz “banda” (band matrix) con ceros y unos, donde los valores cercanos a la diagonal principal son 1 y los demás 0. Sirve para practicar bucles anidados.
 
@@ -35,7 +35,7 @@ RandomWalker.java → Simula el recorrido aleatorio de una partícula en un plan
 
 RandomWalkers.java → Extiende el ejercicio anterior, repitiendo múltiples simulaciones del caminante para obtener promedios estadísticos. Introduce bucles anidados y acumulación de resultados.
 
-Conceptos aplicados
+# Conceptos aplicados
 
 Estructuras condicionales (if, else if, else, switch)
 
@@ -49,6 +49,6 @@ Entrada y salida estándar (System.out.println, Scanner, o argumentos args[])
 
 Control de flujo y lógica condicional
 
-Autor
+## Autor
 
 Jonnathan Rosero Segura
